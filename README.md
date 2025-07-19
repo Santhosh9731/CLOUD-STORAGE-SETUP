@@ -81,3 +81,6 @@ Successfully completing this task has given me a solid foundation for future pro
 This repository serves as a portfolio showcase for my cloud skills. All relevant screenshots, configuration files, and results are included for reference. Feel free to explore and learn!
 
 ### OUTPUT
+
+<img width="959" height="505" alt="Image" src="https://github.com/user-attachments/assets/0252259b-9fcd-4558-a82d-3be6c02fe57a" />
+
